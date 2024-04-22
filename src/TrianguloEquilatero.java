@@ -9,6 +9,7 @@ public class TrianguloEquilatero {
     }
 
     public double getLado() {
+        lado = lado;
         return lado;
     }
 
