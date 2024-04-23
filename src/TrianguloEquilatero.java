@@ -9,7 +9,8 @@ public class TrianguloEquilatero {
     }
 
     public double getLado() {
-        lado = lado;
+        //vamos a provocar un conflicto sencillo, borramos una línea
+        //lado = lado;
         return lado;
     }
 
