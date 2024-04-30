@@ -4,7 +4,7 @@ public class TrianguloEquilatero {
     private double altura;
 
     TrianguloEquilatero (double lado, double altura){
-        //this.lado = lado;
+        this.lado = lado;
         this.altura = altura;
     }
 
