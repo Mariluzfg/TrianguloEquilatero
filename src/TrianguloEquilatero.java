@@ -9,7 +9,8 @@ public class TrianguloEquilatero {
     }
 
     public double getLado() {
-        lado = 0;
+       //versión master
+        // lado = 0;
         return lado;
     }
 
